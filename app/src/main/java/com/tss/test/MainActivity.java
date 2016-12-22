@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Button loginButtonPost, loginButtonGet;
     private TextView information, extraInformation;
     private final static String TAG = "MainActivity";
-    public static Bus bus;
+    public static Bus aaa,bus;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
