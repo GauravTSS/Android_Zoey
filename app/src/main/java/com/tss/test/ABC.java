@@ -6,6 +6,6 @@ package com.tss.test;
 
 public class ABC {
 
-    // hello lasjdfnhjosdfnjosefnjoSDFN
-    int i=0;
+    // hello
+    // Amandeep
 }
